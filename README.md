@@ -13,3 +13,4 @@
 - [1. Numpy基礎複習](http://mirdex.github.io/ML_20231219/1.%20Numpy%20總複習1_Q.slides.html)
 - [2. Numpy Advance](http://mirdex.github.io/ML_20231219/2.%20NumPy_Q.slides.html)
 - [3. Pandas基礎複習](http://mirdex.github.io/ML_20231219/3.%20Pandas%20總複習1_Q.slides.html)
+- [4. Pandas Advance](http://mirdex.github.io/ML_20231219/4.%20Pandas_Q.slides.html)
