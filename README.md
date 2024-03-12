@@ -20,3 +20,4 @@
 - [8. Data Progress Implement](http://mirdex.github.io/ML_20231219/8.Data%20Process%20Implement_Q.slides.html)
 - [9. KNN](http://mirdex.github.io/ML_20231219/9.%20KNN_Q.slides.html)
 - [10. KNN_Advance](http://mirdex.github.io/ML_20231219/10.%20KNN_Advance_Q.slides.html)
+- [11. Naive Bayes Classification](http://mirdex.github.io/ML_20231219/12.%20Naive%20Bayes%20Classification_Q.slides.html)
