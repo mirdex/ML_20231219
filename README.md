@@ -23,3 +23,5 @@
 - [11. Naive Bayes Classification](http://mirdex.github.io/ML_20231219/12.%20Naive%20Bayes%20Classification_Q.slides.html)
 - [12. Decision Tree](http://mirdex.github.io/ML_20231219/13.%20Decision%20Tree_Q.slides.html)
 - [13. Association Rule](http://mirdex.github.io/ML_20231219/11.%20Association%20Rule_Q.slides.html)
+- [14. Regression](http://mirdex.github.io/ML_20231219/16.%20Regression_Q.slides.html)
+- [15. Cluster](http://mirdex.github.io/ML_20231219/14.%20Cluster_Q.slides.html)
